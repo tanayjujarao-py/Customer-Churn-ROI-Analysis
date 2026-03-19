@@ -7,7 +7,7 @@
 ---
 
 ## 🖼️ Dashboard Preview
-![Customer Churn Dashboard](Image/Screenshot 2026-03-19 185944.png)
+![Customer Churn Dashboard](Image/Dashboard.png)
 > **[🔗 View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Strategic_Retention_ROI_Dashboard/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
