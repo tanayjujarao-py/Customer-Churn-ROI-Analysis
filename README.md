@@ -36,4 +36,4 @@ I’ve documented the entire end-to-end process across the following directories
 ---
 **Contact:** [Tanay Ravindra
 ---
-**Contact:** [Tanay Jujarao](www.linkedin.com/in/tanay-jujarao-8499a8255) | Data Analyst | Business Intelligence
+**Contact:** [Tanay Jujarao](https://www.linkedin.com/in/tanay-jujarao-8499a8255/) | Data Analyst | Business Intelligence
