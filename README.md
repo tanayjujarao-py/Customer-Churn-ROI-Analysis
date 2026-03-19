@@ -8,7 +8,7 @@
 
 ## 🖼️ Dashboard Preview
 ![Customer Churn Dashboard](./Images/Your_Dashboard_Screenshot.png)
-> **[🔗 View Interactive Dashboard on Tableau Public](INSERT_YOUR_TABLEAU_LINK_HERE)**
+> **[🔗 View Interactive Dashboard on Tableau Public]([INSERT_YOUR_TABLEAU_LINK_HERE](https://public.tableau.com/views/Strategic_Retention_ROI_Dashboard/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
 
 ---
 
