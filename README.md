@@ -33,4 +33,4 @@
 2. [cite_start]**Activation Program ($105K):** Deploy automated email/SMS sequences and a 20% first-order incentive to drive engagement within the "Golden Window"[cite: 1].
 
 ---
-**Contact:** [Tanay Ravindra Jujarao](www.linkedin.com/in/tanay-jujarao-8499a8255) | Data Analyst | Business Intelligence
+**Contact:** [Tanay Jujarao](www.linkedin.com/in/tanay-jujarao-8499a8255) | Data Analyst | Business Intelligence
