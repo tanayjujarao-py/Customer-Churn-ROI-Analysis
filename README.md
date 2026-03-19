@@ -8,7 +8,7 @@ Customer churn has reached **38.4%** (vs. 25–30% benchmark), resulting in a **
 
 ## 🖼️ Dashboard Preview
 ![Customer Churn Dashboard](./Images/Your_Dashboard_Screenshot.png)
-> **[🔗 View Interactive Dashboard on Tableau Public]((https://public.tableau.com/views/Strategic_Retention_ROI_Dashboard/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+> **[🔗 View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Strategic_Retention_ROI_Dashboard/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
